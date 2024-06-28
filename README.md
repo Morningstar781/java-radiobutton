@@ -1,1 +1,1 @@
-# java-radiobutton
+This is a java program that illustrates how radiobuttons work in java.To run the program, select the MyFrame file and run it with your java compiler.I have a snippet named "Assignment snip" which shows how the program will output once you run it.  
